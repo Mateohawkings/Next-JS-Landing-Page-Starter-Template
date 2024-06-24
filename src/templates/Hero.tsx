@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            GitHub
+            importh
           </Link>
         </li>
         <li>
@@ -26,7 +26,7 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
+            {'The modern landi$ng page for\n'}
             <span className="text-primary-500">React developers</span>
           </>
         }
